@@ -1,2 +1,0 @@
-# betalearn
-pagina de aprendizaje
